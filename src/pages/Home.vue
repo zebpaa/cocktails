@@ -91,7 +91,7 @@ function removeIngredient() {
   display: flex
   align-items: center
   flex-wrap: wrap
-  max-height: 400px
+  max-height: 60vh
   overflow-y: auto
   margin-top: 60px  
 </style>
