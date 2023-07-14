@@ -1,4 +1,4 @@
-# Cocktails
+![cocktails_with_ingredient](https://github.com/zebpaa/cocktails/assets/99737311/5a128b9c-b2fb-43df-b0ba-44c5689b8027)# Cocktails
 The application helps you choose a drink from the proposed ones using the main ingredient, or by generating a random cocktail. Implemented on Vue 3, Element Plus, Swiper.js, and layout on the SASS preprocessor.
 ## Project Setup
 
@@ -17,9 +17,8 @@ npm run dev
 ```sh
 npm run build
 ```
-
-![cocktails_home_page](https://github.com/zebpaa/cocktails/assets/99737311/9a4c9fc5-c340-4631-ba72-ee2a82747a98)
-![cocktails_home_page2](https://github.com/zebpaa/cocktails/assets/99737311/40a59fce-54b2-4f98-a49b-f593fe2bee10)
-![cocktails_random_cocktail](https://github.com/zebpaa/cocktails/assets/99737311/bfc5a511-f842-4959-86a4-d75ba1fb3a5f)
-![cocktails_recipe_and_instructions](https://github.com/zebpaa/cocktails/assets/99737311/d0dd3777-6782-4c41-bafb-0b3edea59271)
-![cocktails_with_ingredient](https://github.com/zebpaa/cocktails/assets/99737311/fecd7161-1ac7-41f0-8940-8f606beb71b6)
+![cocktails_with_ingredient](https://github.com/zebpaa/cocktails/assets/99737311/89512069-8ea2-4da2-83cb-441b71ad6eb5)
+![cocktails_recipe_and_instructions](https://github.com/zebpaa/cocktails/assets/99737311/47246514-1660-432e-9f52-c2bb7a81b370)
+![cocktails_random_cocktail](https://github.com/zebpaa/cocktails/assets/99737311/dc857bae-fc06-4997-a578-43366e033914)
+![cocktails_home_page2](https://github.com/zebpaa/cocktails/assets/99737311/a91d90fc-1f32-4515-874d-f8a1816dcf86)
+![cocktails_home_page](https://github.com/zebpaa/cocktails/assets/99737311/555bebc0-a06f-4426-9eee-0b64f2c1f404)
