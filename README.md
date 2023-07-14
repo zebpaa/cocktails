@@ -1,6 +1,5 @@
 # Cocktails
-Choose a drink from the proposed ones using the main ingredient or generate a random one.
-
+The application helps you choose a drink from the proposed ones using the main ingredient, or by generating a random cocktail. Implemented on Vue 3, Element Plus, Swiper.js, and layout on the SASS preprocessor.
 ## Project Setup
 
 ```sh
