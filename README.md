@@ -4,23 +4,6 @@ The application helps you choose a drink from the proposed ones using the main i
 ## Link on API
 https://www.thecocktaildb.com/api.php
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-
 ```
 # Screens
 ![cocktails_home_page](https://github.com/zebpaa/cocktails/assets/99737311/555bebc0-a06f-4426-9eee-0b64f2c1f404)
