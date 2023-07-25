@@ -4,7 +4,6 @@ The application helps you choose a drink from the proposed ones using the main i
 ## Link on API
 https://www.thecocktaildb.com/api.php
 
-```
 # Screens
 ![cocktails_home_page](https://github.com/zebpaa/cocktails/assets/99737311/555bebc0-a06f-4426-9eee-0b64f2c1f404)
 ![cocktails_home_page2](https://github.com/zebpaa/cocktails/assets/99737311/a91d90fc-1f32-4515-874d-f8a1816dcf86)
