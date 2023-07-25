@@ -1,5 +1,8 @@
 # Cocktails
 The application helps you choose a drink from the proposed ones using the main ingredient, or by generating a random cocktail. Implemented on Vue 3, Element Plus, Swiper.js, and layout on the SASS preprocessor.
+
+https://www.thecocktaildb.com/api.php
+
 ## Project Setup
 
 ```sh
